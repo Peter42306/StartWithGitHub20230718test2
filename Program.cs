@@ -10,6 +10,7 @@ namespace MyProjectToStartGitHubTest2on20230718
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is my first working GitHub project!!!)))");
         }
     }
 }
